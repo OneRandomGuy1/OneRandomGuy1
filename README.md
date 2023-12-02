@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OneRandomGuy1
+- 👀 I’m interested in Games, Programming
+- 🌱 I’m currently learning Game development
